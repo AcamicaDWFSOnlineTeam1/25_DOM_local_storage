@@ -1,3 +1,22 @@
+# Programan
+
+## 1.- Agregar ítem
+Agrega un nuevo ítem al menú de navegación desde Javascript.
+![imagen](https://user-images.githubusercontent.com/16826246/111795762-1b04d580-888d-11eb-84a2-444ce5da4324.png)
+
+## 2.- Agregar negrita
+Agrega una negrita a una sola palabra dentro de tu párrafo
+![imagen](https://user-images.githubusercontent.com/16826246/111795916-42f43900-888d-11eb-86eb-046efed2dfa7.png)
+
+## 3.- Cambiar imagen
+Luego de 10 segundos cambia la imagen. Intercala entre al menos 2 imágenes diferentes.
+![imagen](https://user-images.githubusercontent.com/16826246/111796085-71721400-888d-11eb-9811-85bb72dc3f77.png)
+
+## 4.- Invertir el orden
+Invierte el orden de estas dos tarjetas.
+![imagen](https://user-images.githubusercontent.com/16826246/111797601-eabe3680-888e-11eb-98dd-2361f9b0bf01.png)
+
+
 
 # Pasos para crear un branch y pull request para revisión de su código
 Crea una rama de main, el nombre de su rama debe tener la siguiente estructura:

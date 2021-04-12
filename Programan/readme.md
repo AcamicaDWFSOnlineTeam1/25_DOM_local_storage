@@ -12,7 +12,11 @@ Lanza 3 fetch al mismo Endpoint de Pokemon y muestra los siguientes resultados:
 - Si los 3 request finalizaron correctamente, muestra los resultados por pantalla.
 - Si algún request falló (te tocó el valor string en la elección aleatoria), muestra un error por pantalla.
 
+## 3.- Genera una interfaz donde haya 3 inputs y un botón de buscar.
 
+Valida que los 3 inputs estén completos y sean numéricos al momento de presionar buscar.
+Busca el pokemon del ID del primer input recién cuando finalice busca el segundo. Haz lo mismo con el tercero.
+Lanza cada una de las llamadas cuando estés seguro/a que la anterior finalizó.
 
 # Pasos para crear un branch y pull request para revisión de su código
 Crea una rama de main, el nombre de su rama debe tener la siguiente estructura:

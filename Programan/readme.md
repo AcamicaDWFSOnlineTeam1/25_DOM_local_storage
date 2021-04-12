@@ -1,22 +1,20 @@
 # Programan
 
-## 1.- Genera un array con 10 posiciones numéricas.
+## 1.- Agregar ítem
+Agrega un nuevo ítem al menú de navegación desde Javascript.
+![imagen](https://user-images.githubusercontent.com/16826246/111795762-1b04d580-888d-11eb-84a2-444ce5da4324.png)
 
-Toma de manera aleatoria 3 elementos.
-Lanza 3 fetch al mismo Endpoint de Pokemon y muestra solamente la primera respuesta.
+## 2.- Agregar negrita
+Agrega una negrita a una sola palabra dentro de tu párrafo
+![imagen](https://user-images.githubusercontent.com/16826246/111795916-42f43900-888d-11eb-86eb-046efed2dfa7.png)
 
-## 2.- Cambia uno de los elementos de tu array a un valor tipo string.
+## 3.- Cambiar imagen
+Luego de 10 segundos cambia la imagen. Intercala entre al menos 2 imágenes diferentes.
+![imagen](https://user-images.githubusercontent.com/16826246/111796085-71721400-888d-11eb-9811-85bb72dc3f77.png)
 
-Repite el proceso: toma de manera aleatoria 3 elementos.
-Lanza 3 fetch al mismo Endpoint de Pokemon y muestra los siguientes resultados:
-- Si los 3 request finalizaron correctamente, muestra los resultados por pantalla.
-- Si algún request falló (te tocó el valor string en la elección aleatoria), muestra un error por pantalla.
-
-## 3.- Genera una interfaz donde haya 3 inputs y un botón de buscar.
-
-Valida que los 3 inputs estén completos y sean numéricos al momento de presionar buscar.
-Busca el pokemon del ID del primer input recién cuando finalice busca el segundo. Haz lo mismo con el tercero.
-Lanza cada una de las llamadas cuando estés seguro/a que la anterior finalizó.
+## 4.- Invertir el orden
+Invierte el orden de estas dos tarjetas.
+![imagen](https://user-images.githubusercontent.com/16826246/111797601-eabe3680-888e-11eb-98dd-2361f9b0bf01.png)
 
 # Pasos para crear un branch y pull request para revisión de su código
 Crea una rama de main, el nombre de su rama debe tener la siguiente estructura:
